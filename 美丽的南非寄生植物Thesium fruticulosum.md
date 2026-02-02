@@ -13,3 +13,4 @@ T. fruticulosum, A. W. Hill; 特征为亚灌木、粗壮，小枝、中脉和苞
 
 文献来源：Bulletin of Miscellaneous Information, Royal Botanic Gardens, Kew,1915
 
+![原始描述1](https://raw.githubusercontent.com/Heterotrophic-plants/Heterotrophic/main/images/Thesium_fruticulosum.jpg)
